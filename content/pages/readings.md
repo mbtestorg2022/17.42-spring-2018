@@ -99,7 +99,7 @@ Blainey, Geoffrey. "Dreams and Delusions of a Coming War." Chapter 3 in _The Cau
 
 _False optimism about the likely results of war causes war._
 
-Van Evera, Stephen. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Offense/Defense Theory in a Nutshell." (PDF)](https://drive.google.com/file/d/1dlhW79Ah2I05ctRvkw8IcyvAtuKI8ZkA/view) August 27, 2017, revised March 7, 2018, pp. 1–11.
+Van Evera, Stephen. ["Offense/Defense Theory in a Nutshell." (PDF)](https://drive.google.com/file/d/1dlhW79Ah2I05ctRvkw8IcyvAtuKI8ZkA/view) August 27, 2017, revised March 7, 2018, pp. 1–11.
 
 _Your instructor summarizes the argument that states are more belligerent and war is more likely when conquest is easy. A related argument: international conflict arises largely from the "security dilemma"-the tendency of states to threaten others' security by their efforts to secure themselves.  
 _
@@ -476,7 +476,7 @@ _A good basic history of the events leading up to World War II._
 
 _Haffner focuses on Adolf Hitler and his striking personal attributes as key causes of the war._
 
-Herwig, Holger H. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Clio Deceived: Patriotic Self- Censorship in Germany After the Great War." (PDF - 2.5MB)](https://muse.jhu.edu/article/446344/pdf) _International Security_ 12, no. 2 (1987): 5–44. 
+Herwig, Holger H. ["Clio Deceived: Patriotic Self- Censorship in Germany After the Great War." (PDF - 2.5MB)](https://muse.jhu.edu/article/446344/pdf) _International Security_ 12, no. 2 (1987): 5–44. 
 
 _Germans mis-remembered the origins and aftermath of the First World War. They thought Britain and Russia caused the war, while Germany was innocent! Young Germans widely learned this lie in German schools during 1939._
 
@@ -567,7 +567,7 @@ _A basic rundown of the issues._
 
 _The advance of science has a fearsome byproduct: we are discovering ever more powerful means of destruction. These destructive powers are being democratized: the mayhem that only major states can do today may lie within the capacity of millions of individuals in the future unless we somehow change course. Deterrence works against states but will fail against crazed non- state organizations or individuals. How can the spread of destructive powers be controlled?_
 
-For more on controlling the longterm bioweapons danger see: Steinbruner, John, Elisa D. Harris, Nancy Gallagher, et al. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)_Controlling Dangerous Pathogens: A Prototype Protective Oversight System_. (PDF - 3MB)](https://drum.lib.umd.edu/handle/1903/7949) The Center for International and Security Studies at Maryland, March 2007.
+For more on controlling the longterm bioweapons danger see: Steinbruner, John, Elisa D. Harris, Nancy Gallagher, et al. [_Controlling Dangerous Pathogens: A Prototype Protective Oversight System_. (PDF - 3MB)](https://drum.lib.umd.edu/handle/1903/7949) The Center for International and Security Studies at Maryland, March 2007.
 
 Kelly, Henry C. "[Terrorism and the Biology Lab](https://www.nytimes.com/2003/07/02/opinion/terrorism-and-the-biology-lab.html)," _New York Times_, July 2, 2003.
 
@@ -659,7 +659,7 @@ _An account of the 2003 U.S.-Iraq war._
 
 _For more color on Saddam Hussein's pre-war perceptions see:_
 
-Woods, Kevin R., with Michael R. Pease, Mark E. Stout, et al. [_![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Iraqi Perspectives Project: A View of Operation Iraqi Freedom from Saddam's Senior Leadership._ (PDF - 8MB)](https://www.hsdl.org/?abstract&did=461392) Joint Center for Operational Analysis, 2006, pp. 1–32. (Not assigned.)
+Woods, Kevin R., with Michael R. Pease, Mark E. Stout, et al. [_Iraqi Perspectives Project: A View of Operation Iraqi Freedom from Saddam's Senior Leadership._ (PDF - 8MB)](https://www.hsdl.org/?abstract&did=461392) Joint Center for Operational Analysis, 2006, pp. 1–32. (Not assigned.)
 
 _What was Saddam Hussein thinking? Answers are found here._
 
