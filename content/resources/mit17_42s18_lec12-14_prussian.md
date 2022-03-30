@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-42-causes-and-prevention-of-war-spring-2018/035590cbbc067a10812f29f12975e953_MIT17_42S18_lec12-14_Prussian.pdf
 file_type: application/pdf
+parent_uid: 26fed574-b057-3057-e80d-2ff17969e6d1
 resourcetype: Document
 title: '17.42_S18 Lecture 12-14: The Austro-Prussian War of 1866 / The Franco-Prussian
   War of 1870'
